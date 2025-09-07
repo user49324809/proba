@@ -1,0 +1,28 @@
+h1, h2, h3, h4, h5, h6{
+    text-align: center;
+}
+
+
+h1{
+    color: lightblue;
+}
+
+h2{
+    color: burlywood;
+}
+
+h3{
+    color: yellowgreen;
+}
+
+h4{
+    color: aquamarine;
+}
+
+h5{
+    color: teal;
+}
+
+h6{
+    color: red;
+}
